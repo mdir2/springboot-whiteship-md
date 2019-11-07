@@ -1,2 +1,2 @@
-# springboot-whiteship
+# Springboot-whiteship
 whiteship online lecture summary
